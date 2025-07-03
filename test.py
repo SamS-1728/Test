@@ -1,6 +1,6 @@
 import random
 print("hello world")
-
+print('hello world')
 def hello(kieran):
-    print('hello')
-    
+    print('hi')
+    print('hi')
